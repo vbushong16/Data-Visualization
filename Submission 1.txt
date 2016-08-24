@@ -1,0 +1,9 @@
+This submission represent the amount of options exercised based on stock price levels.
+
+We see on the x-axis the quarters grouped by year and on the first y-axis the stock price and the second y-axis the amount of option exercised.
+
+The data used is volume of options exercised by quarter and stock price levels.
+
+What is very interesting is we see, following the slight increase in stock price (economic recovery) from 2009 to 2010 a massive jump in the number of option exercised. This pattern carries over through 2012 until the stock price undergoes massive growth from mid 40s to 90s values between 2013 and 2014.
+
+This visualization tells us that investors were not confident the company would bounce back and sold off there options to reduce their risk exposure following a slight economic recovery. The slowing rate of exercise between 2013-2014 tells us that investors are more confident in the company's success following it's massive stock price growth.
